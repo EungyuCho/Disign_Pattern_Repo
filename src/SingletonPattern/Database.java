@@ -1,7 +1,6 @@
 package SingletonPattern;
 
 public class Database {
-    private static Database singleton = new Database("products");       //Thread에 safe하게 static instance
     private String name;
 
     public Database(String name) {
@@ -13,8 +12,12 @@ public class Database {
         }
     }
 
+    private static class LazyHolder {
+        public static final Database INSTANCE = new Database("products");       //Thread에 safe하게 static instance
+    }
+
     public static Database getInstance(String name) {
-        return singleton;
+        return LazyHolder.INSTANCE;
     }
 
     public String getName() {

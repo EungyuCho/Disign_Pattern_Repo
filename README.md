@@ -7,7 +7,7 @@
 <h2>목차📕</h2>
 <ol>
     <li>
-        <a>Singleton Pattern</a> 
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Singleton.md">Singleton Pattern</a> 
     </li>
     <li>
         <a>Flyweight Pattern</a> 
