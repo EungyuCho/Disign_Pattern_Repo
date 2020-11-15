@@ -1,16 +1,13 @@
 <h1><b>📚 GOF 디자인 패턴 📚</b></h1>
 <hr/><br/>
-
-<h3>디자인 패턴 학습용 레포지터리 입니다!</h3><br/> 
- 
- 
+<h3>디자인 패턴 학습용 레포지터리 입니다!</h3><br/>
 <h2>목차📕</h2>
 <ol>
     <li>
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Singleton.md">Singleton Pattern</a> 
     </li>
     <li>
-        <a>Flyweight Pattern</a> 
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Flyweight.md">Flyweight Pattern</a> 
     </li>
     <li>
         <a>Builder Pattern</a>
