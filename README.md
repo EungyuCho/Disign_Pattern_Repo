@@ -13,7 +13,7 @@
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Builder.md">Builder Pattern</a>
     </li>
     <li>
-        <a>Observer Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Observer.md">Observer Pattern</a>
     </li>
     <li>
         <a>Adapter Pattern</a>
