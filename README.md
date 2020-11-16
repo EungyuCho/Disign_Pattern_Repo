@@ -10,7 +10,7 @@
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Flyweight.md">Flyweight Pattern</a> 
     </li>
     <li>
-        <a>Builder Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Builder.md">Builder Pattern</a>
     </li>
     <li>
         <a>Observer Pattern</a>
