@@ -16,10 +16,10 @@
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Observer.md">Observer Pattern</a>
     </li>
     <li>
-        <a>Adapter Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Adapter.md">Adapter Pattern</a>
     </li>
     <li>
-        <a>Facade Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Facade.md">Facade Pattern</a>
     </li>
     <li>
         <a>Decorator Pattern</a>
