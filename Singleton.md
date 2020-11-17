@@ -27,4 +27,4 @@
        return name;
    }
 }</code></pre>
-<h3><a href=" https://github.com/EungyuCho/Disign_Pattern_Repo">목차로 돌아가기 🏃</a></h3> 
+<h3><a href="https://github.com/EungyuCho/Disign_Pattern_Repo">목차로 돌아가기 🏃</a></h3> 
