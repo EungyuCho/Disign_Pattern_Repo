@@ -28,6 +28,6 @@
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Bridge.md">Bridge Pattern</a>
     </li>
     <li>
-        <a>Strategy Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Strategy.md">Strategy Pattern</a>
     </li>
-</ol>23
+</ol>
