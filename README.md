@@ -22,10 +22,10 @@
         <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Facade.md">Facade Pattern</a>
     </li>
     <li>
-        <a>Decorator Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Decorator.md">Decorator Pattern</a>
     </li>
     <li>
-        <a>Bridge Pattern</a>
+        <a href="https://github.com/EungyuCho/Disign_Pattern_Repo/blob/master/Bridge.md">Bridge Pattern</a>
     </li>
     <li>
         <a>Strategy Pattern</a>
