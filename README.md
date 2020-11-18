@@ -30,4 +30,4 @@
     <li>
         <a>Strategy Pattern</a>
     </li>
-</ol>
+</ol>23
